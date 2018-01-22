@@ -1,0 +1,47 @@
+#home {
+  background: linear-gradient(#530060,#960573,#E00A88);
+  min-height: 100vh;
+}
+
+#logo {
+  height: 20vh;
+  margin-top: 40vh;
+  width: 35vw;
+}
+
+#logo_pink {
+  height: 40vh;
+  margin-top: 15vh;
+  width: 90vw;
+}
+
+#logo_white {
+  height: 10vh;
+  width: 20vw;
+}
+
+.background-home {
+  background-image: url("../assets/images/night.jpg");
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.button {
+  border: 1px solid white;
+}
+
+.m-0 {
+  margin: 0;
+}
+
+.mb-0 {
+  margin-bottom: 0;
+}
+
+.mt-15 {
+  margin-top: 15vh;
+}
+
+.sing-up {
+  font-size: 4em;
+}
